@@ -127,6 +127,20 @@ An interactive Power BI dashboard was created to visualize the key findings.
 
 ![Power BI Store & Business Analysis](images/powerbi_store_analysis.png)
 
+### Python EDA Visualizations
+
+#### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+#### Yearly Sales Trend
+
+![Yearly Sales Trend](images/yearly_sales_trend.png)
+
+#### Holiday vs Non-Holiday Sales
+
+![Holiday vs Non-Holiday Sales](images/holiday_vs_nonholiday.png)
+
 ### Dashboard Features
 
 - Total Sales
