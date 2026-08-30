@@ -119,6 +119,14 @@ The generated charts are stored in the `images` folder.
 
 An interactive Power BI dashboard was created to visualize the key findings.
 
+### Dashboard Overview
+
+![Power BI Dashboard Overview](images/powerbi_dashboard_overview.png)
+
+### Store & Business Analysis
+
+![Power BI Store & Business Analysis](images/powerbi_store_analysis.png)
+
 ### Dashboard Features
 
 - Total Sales
